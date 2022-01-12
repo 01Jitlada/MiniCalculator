@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
             c1.setText("+")
         }
 
+        //wow
         b2.setOnClickListener{
                 val n1 = a1.text.toString().toInt()
                 val n2 = a2.text.toString().toInt()
